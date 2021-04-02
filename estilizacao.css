@@ -49,7 +49,12 @@ img {
     border: 8px solid white;
 }
 
-a {
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
     text-decoration: none;
     color: black;
 }
