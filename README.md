@@ -4,8 +4,6 @@ Projeto criado durante as aulas da Imersão Dev, feito pela *Alura*.
 
 Essa campanha teve foco em Javascript.
 
-Site: [Clique aqui](https://bryansoliveira.github.io/)
-
 
 
 ### Projetos desenvolvidos durante as aulas: 
